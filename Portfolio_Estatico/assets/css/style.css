@@ -432,7 +432,7 @@ h6 {
 
 #hero .profile-img{
   width: 200px;
-  height: 200px;
+  height: 225px;
 }
 
 @media (min-width: 1024px) {
@@ -504,16 +504,16 @@ section {
 }
 
 /*--------------------------------------------------------------
-# Skills
+# Techonologies
 --------------------------------------------------------------*/
 
-#skills .img{
+#technologies .img{
   width: 100px;
   height: 100px;
 }
 
-#skills .container{
-  width: 100px;
+#technologies .technologies-item{
+  width: 200px;
 }
 
 
